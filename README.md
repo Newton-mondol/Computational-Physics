@@ -26,5 +26,6 @@ def minor(a, i, j):
 :tada:                                     :tada:   
 # Shahjala University of Science and Technology
 ## Newton Kumar Mondol 🧔
----
+
+`SUST`
 
