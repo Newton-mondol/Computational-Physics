@@ -1,7 +1,7 @@
 # Computational-Physics
 
-* Physics
-* Simulation
+- [ ] Physics
+- [ ] Simulation
 
 ```Python
 def minor(a, i, j):
