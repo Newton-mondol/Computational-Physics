@@ -23,7 +23,7 @@ def minor(a, i, j):
 
 :octocat:
 -----------------------------------------------------------------------------------------
-:tada:
+:tada:                                     :tada:   
 # Shahjala University of Science and Technology
 ## Newton Kumar Mondol 🧔
 
