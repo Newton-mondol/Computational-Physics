@@ -28,4 +28,5 @@ def minor(a, i, j):
 ## Newton Kumar Mondol 🧔
 
 `CSE`, `IPE` , `EEE`
-
+=====
+SEX
