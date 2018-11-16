@@ -20,7 +20,7 @@ def minor(a, i, j):
 
 ```
 [How to write in GitHub](https://www.youtube.com/watch?v=p8yKoPaDqiA)
----
+====
 :octocat:
 
 :tada:                                     :tada:   
@@ -28,5 +28,4 @@ def minor(a, i, j):
 ## Newton Kumar Mondol 🧔
 
 `CSE`, `IPE` , `EEE`
-=====
-SEX
+
