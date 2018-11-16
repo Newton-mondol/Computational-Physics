@@ -25,4 +25,4 @@ def minor(a, i, j):
 -----------------------------------------------------------------------------------------
 # Shahjala University of Science and Technology
 ## Newton Kumar Mondol 🧔
-
+:pizza:
