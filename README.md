@@ -20,8 +20,9 @@ def minor(a, i, j):
 
 ```
 [How to write in GitHub](https://www.youtube.com/watch?v=p8yKoPaDqiA)
-====
+
 :octocat:
+=====
 
 :tada:                                     :tada:   
 # Shahjala University of Science and Technology
