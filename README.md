@@ -1,1 +1,3 @@
 # Computational-Physics
+*Physics
+*Simulation
