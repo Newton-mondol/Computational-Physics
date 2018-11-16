@@ -1,6 +1,6 @@
 # Computational-Physics
 
-- [ ] Physics
+- [.] Physics
 - [ ] Simulation
 
 ```Python
