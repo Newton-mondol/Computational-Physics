@@ -19,3 +19,4 @@ def minor(a, i, j):
     return ((-1) ** (i + j)) * (a[i][j]) * (ar[0] * ar[3] - ar[2] * ar[1])
 
 ```
+[How to write in GitHub](https://www.youtube.com/watch?v=p8yKoPaDqiA)
